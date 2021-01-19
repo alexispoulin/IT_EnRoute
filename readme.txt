@@ -10,3 +10,7 @@ Credits :
 License :
 -------
 **Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+
+Images:
+-------
+**Shutterstock paid images** - https://www.shutterstock.com/
